@@ -3,9 +3,7 @@
 - 👾 I’m currently learning HTML, CSS and JavaScript.
 - 🔰 I’m from Brazil.
 - 📌 Goals: create a new project and find a new job.
- ##
- 
-<div align="center">
+ ##	
   <a href="https://github.com/eucindyn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eucindyn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>  
@@ -15,10 +13,11 @@
   <img align="center" alt="Rafa-Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="profile" height="150" src="https://user-images.githubusercontent.com/92797194/154873370-764bba04-6b9d-408a-9f7c-0d81d08c03a0.png">	
 </div>	
+
 	
 ##	
-	
 	
 <div>
 <a href="https://instagram.com/eucindyn" target="_blank"><img align="left" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
