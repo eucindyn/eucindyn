@@ -13,7 +13,7 @@
   <img align="center" alt="Rafa-Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="profile" height="150" src="https://user-images.githubusercontent.com/92797194/154873370-764bba04-6b9d-408a-9f7c-0d81d08c03a0.png">	
+  <img align="right" alt="profile" height="170" src="https://user-images.githubusercontent.com/92797194/154979405-d1974f08-7e96-422b-9aea-abd2ee93d780.png">	
 </div>	
 
 	
