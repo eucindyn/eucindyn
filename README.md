@@ -13,6 +13,7 @@
   <img align="center" alt="cindy-html" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="cindy-css" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">	
   <img align="center" alt="cindy-js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="cindy-nodejs" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />	
   <img align="center" alt="cindy-figma" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="right" alt="profile" height="170" src="https://user-images.githubusercontent.com/92797194/154979405-d1974f08-7e96-422b-9aea-abd2ee93d780.png">	
 </div>	
