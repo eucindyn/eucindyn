@@ -1,8 +1,10 @@
- Hello, stranger! I'm Cindy ✨
+ 📍 Hello there! I'm Cindy. ✨
+<div>
+👾 I’m currently learning HTML, CSS, JavaScript and UI Design.<br>
+🔰 I’m from Brazil.<br>
+📌 In a career transition phase and looking for the first opportunity.<br>
+</div>	
 
-- 👾 I’m currently learning HTML, CSS, JavaScript and UI Design.
-- 🔰 I’m from Brazil.
-- 📌 In a career transition phase and looking for the first opportunity.
  ##	
   <a href="https://github.com/eucindyn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eucindyn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
