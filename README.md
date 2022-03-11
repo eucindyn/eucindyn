@@ -1,15 +1,17 @@
  📍 Hello there! I'm Cindy. ✨
+ 
 <div>
 👾 I’m currently learning HTML, CSS, JavaScript and UI Design.<br>
 🔰 I’m from Brazil.<br>
 📌 In a career transition phase and looking for the first opportunity.<br>
 </div>	
 
- ##	
-  <a href="https://github.com/eucindyn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eucindyn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eucindyn&layout=compact&langs_count=7&theme=dracula"/>  
- </div>
+ ##
+ 
+ <a href="https://github.com/eucindyn">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eucindyn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eucindyn&layout=compact&langs_count=7&theme=dracula"/> 
+
         
 <div style="display: inline_block"><br>
   <img align="center" alt="cindy-html" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
