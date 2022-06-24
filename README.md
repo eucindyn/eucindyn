@@ -13,6 +13,12 @@
 <br>
 <br>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,react,javascript,html,css" />
+  </a>
+</p>
+
 <div align="left"
 <a href="https://github.com/eucindyn">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eucindyn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
