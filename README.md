@@ -1,6 +1,5 @@
- 📍 Hello there! I'm Cindy. ✨
- 
-<div>
+<div align="center">
+📍 Hello there! I'm Cindy. ✨<br>	
 👾 I’m currently learning HTML, CSS, JavaScript and UI Design.<br>
 🔰 I’m from Brazil.<br>
 📌 In a career transition phase and looking for the first opportunity.<br>
@@ -19,7 +18,7 @@
   </a>
 </p>
 
-<div align="center"
+<div align="center">
 <a href="https://github.com/eucindyn">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eucindyn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eucindyn&layout=compact&langs_count=7&theme=dracula"/>
