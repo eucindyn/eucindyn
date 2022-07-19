@@ -16,7 +16,6 @@
   <img src="./images/html.png" width="25" title="HTML5"/> &nbsp;
   <img src="./images/css.png" width="25" title="CSS3"/> &nbsp;
   <img src="./images/git.png" width="25" title="Git"/> &nbsp;
-  <img src="./images/github.png" width="25" title="Github"/> &nbsp;
 </div>
 -->
 <br />
