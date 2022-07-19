@@ -5,19 +5,19 @@
 **Desenvolvedora Front-end e UI Designer**
 
 <!--Também gosto muito de tecnologia! <s>por essa você não esperava, não é mesmo?</s> Sempre fui fascinado pelo mundo do desenvolvimento de software e desde sempre estudei sozinho nessas internets por aí. Fiz 3 anos de Ciências da Computação e atualmente estudo na Trybe buscando a formação de Full Stack!
--->
+
 <br />
 
 ###  Tecnologias que uso 🚀
 
-<!--
+
 <div>
   <img src="./images/js.png" width="25" title="JavaScript"/> &nbsp;
   <img src="./images/html.png" width="25" title="HTML5"/> &nbsp;
   <img src="./images/css.png" width="25" title="CSS3"/> &nbsp;
   <img src="./images/git.png" width="25" title="Git"/> &nbsp;
 </div>
--->
+
 <br />
 <br />
 
