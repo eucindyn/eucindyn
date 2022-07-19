@@ -4,7 +4,7 @@
 
 **Desenvolvedora Front-end e UI Designer**, gosto de açai (como uma boa paraense), criar protótipos e codar ✅
 
-<s></s>Depois de anos trabalhando na área de Farmácia, resolvi mudar de área. Atualmente estudo programação e design na Origamid. 👾
+<s></s>Depois de anos trabalhando na área de Farmácia, resolvi mudar de área. Atualmente estudo programação e design na Origamid 👾
 
 <br />
 
