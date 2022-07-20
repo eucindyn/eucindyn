@@ -37,7 +37,7 @@
 
 <!---->
   
-   ![Snake animation](https://github.com/eucindyn/eucindyn/blob/output/github-contribution-grid-snake.svg)
+ 
 	
         
         
