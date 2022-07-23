@@ -2,7 +2,7 @@
 
 <br />
 
-**Desenvolvedora Front-end e UI Designer**, gosto de açai (como uma boa paraense), criar protótipos e codar ✅
+**Desenvolvedora Front-end e UI Designer**, gosto de batata frita, açaí e criar protótipos **(codar? só de vez em sempre 😅)** 
 
 <s></s>Depois de anos trabalhando na área de Farmácia, resolvi mudar de área. Atualmente estudo programação e design na Origamid 👾
 
@@ -14,6 +14,7 @@
   <img src="./tecnologias/html.png" width="25" title="HTML5"/> &nbsp;
   <img src="./tecnologias/css.png" width="25" title="CSS3"/> &nbsp;
   <img src="./tecnologias/js.png" width="25" title="JavaScript"/> &nbsp;
+  <img src="./tecnologias/eslint.png" width="27" title="Eslint"/> &nbsp;
   <img src="./tecnologias/git.png" width="25" title="Git"/> &nbsp;
   <img src="./tecnologias/github.png" width="25" title="GitHub"/> &nbsp;
 </div>
@@ -36,7 +37,7 @@
 
 <!---->
   
-   ![Snake animation](https://github.com/eucindyn/eucindyn/blob/output/github-contribution-grid-snake.svg)
+ 
 	
         
         
