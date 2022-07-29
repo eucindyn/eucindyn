@@ -22,7 +22,7 @@
 <br />
 <br />
 
-###  Tecnologias que estou estudando 📚
+###  Tecnologias que estou estudando 
 
 <div>
   <img src="./tecnologias/react.png" width="25" title="React"/> &nbsp;
