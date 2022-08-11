@@ -2,7 +2,7 @@
 
 <br />
 
-**Desenvolvedora Front-end e UI Designer**, gosto de batata frita, açaí e criar protótipos **(codar? só de vez em sempre 😅)** 
+**Desenvolvedora Front-end e UI Designer**, curto batata frita, açaí e criar protótipos **(codar? só de vez em sempre 😅)** 
 
 <s></s>Depois de anos trabalhando na área de Farmácia, resolvi mudar de área. Atualmente estudo programação e design na Origamid 👾
 
