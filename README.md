@@ -8,7 +8,7 @@
 
 <br />
 
-###  Tecnologias que uso 🚀
+###  Technologies I use 🚀
 
 <div> 
   <img src="./tecnologias/html.png" width="25" title="HTML5"/> &nbsp;
@@ -22,7 +22,7 @@
 <br />
 <br />
 
-###  Tecnologias que estou estudando 
+###  Technologies I'm studying
 
 <div>
   <img src="./tecnologias/react.png" width="25" title="React"/> &nbsp;
@@ -33,7 +33,7 @@
 <br />
 <br />
 
-### Conecte-se comigo no Linkedin! 
+### Connect with me on LinkedIn!
 
 <!-- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eucindyn/) -->
 
