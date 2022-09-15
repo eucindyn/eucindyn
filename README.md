@@ -1,10 +1,13 @@
-### ✨ Hello, there! I'm Cindy!
+### Hello, there! <s>The angel from my nightmare</s> I'm Cindy! ✨
 
 <br />
+<br />
 
-**Front-end Developer** in career transition 🌱
+🌱 **Front-end Developer** in career transition  <br>
+📍 I can speak Portuguese fluently and intermediate English 
 
-<s></s>
+
+
 
 <br />
 
@@ -22,7 +25,7 @@
 <br />
 <br />
 
-###  Technologies I'm studying
+###  Technologies I'm learning
 
 <div>
   <img src="./tecnologias/react.png" width="25" title="React"/> &nbsp;
