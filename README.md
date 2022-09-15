@@ -3,10 +3,8 @@
 <br />
 <br />
 
-🌱 **Front-end Developer** in career transition  <br>
+🌱 <span data-color="purple">**Front-end Developer** in career transition</span>  <br>
 📍 I can speak Portuguese fluently and intermediate English 
-
-
 
 
 <br />
