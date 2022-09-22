@@ -29,10 +29,7 @@
   <img src="./tecnologias/react.png" width="25" title="React"/> &nbsp;
   <img src="./tecnologias/typescript.png" width="25" title="TypeScript"/> &nbsp;
   <img src="./tecnologias/sass.png" width="25" title="Sass"/> &nbsp;
-<<<<<<< HEAD
-  <img src="./tecnologias/tailwindcss.png" width="25" title="Sass"/> &nbsp;
-=======
->>>>>>> 47400a955bb27c876034b1de9e40f9ba72e0bde6
+  <img src="./tecnologias/tailwindcss.png" width="25" title="Tailwind CSS"/> &nbsp;
 </div>
 
 <br />
