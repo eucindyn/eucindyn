@@ -26,6 +26,9 @@
 
 <div>
   <img src="./tecnologias/react.png" width="25" title="React"/> &nbsp;
+  <img src="./tecnologias/typescript.png" width="25" title="TypeScript"/> &nbsp;
+  <img src="./tecnologias/sass.png" width="25" title="Sass"/> &nbsp;
+  <img src="./tecnologias/tailwindcss.png" width="25" title="Sass"/> &nbsp;
 </div>
 
 <br />
