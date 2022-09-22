@@ -1,14 +1,15 @@
-### ✨ Hello, there! I'm Cindy!
+### Hello, there! <s>*The angel from my nightmare*</s> I'm Cindy! ✨
+
+<br />
+<br />
+
+🌱 <span data-color="purple">**Front-end Developer** in career transition</span>  <br>
+📍 I can speak Portuguese fluently and intermediate English 
+
 
 <br />
 
-**Desenvolvedora Front-end e UI Designer**, gosto de batata frita, açaí e criar protótipos **(codar? só de vez em sempre 😅)** 
-
-<s></s>Depois de anos trabalhando na área de Farmácia, resolvi mudar de área. Atualmente estudo programação e design na Origamid 👾
-
-<br />
-
-###  Tecnologias que uso 🚀
+###  Technologies I use 🚀
 
 <div> 
   <img src="./tecnologias/html.png" width="25" title="HTML5"/> &nbsp;
@@ -22,21 +23,26 @@
 <br />
 <br />
 
-###  Tecnologias que estou estudando 📚
+###  Technologies I'm learning
 
 <div>
   <img src="./tecnologias/react.png" width="25" title="React"/> &nbsp;
   <img src="./tecnologias/typescript.png" width="25" title="TypeScript"/> &nbsp;
   <img src="./tecnologias/sass.png" width="25" title="Sass"/> &nbsp;
+<<<<<<< HEAD
   <img src="./tecnologias/tailwindcss.png" width="25" title="Sass"/> &nbsp;
+=======
+>>>>>>> 47400a955bb27c876034b1de9e40f9ba72e0bde6
 </div>
 
 <br />
 <br />
 
-### Conecte-se comigo no Linkedin! 
+### Connect with me on LinkedIn!
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eucindyn/)
+<!-- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eucindyn/) -->
+
+[![Linkedin Badge](https://img.shields.io/badge/-Cindy%20Nascimento-cb6699?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eucindyn/)](https://www.linkedin.com/in/eucindyn/) 
 
 <!---->
   
