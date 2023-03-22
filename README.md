@@ -1,7 +1,8 @@
-### Hello, there! <s>*The angel from my nightmare*</s> I'm Cindy! ✨
+### Hello, there! <s>*The angel from my nightmare*</s> I'm Cindy!✨
 
 <br />
-<br />
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
 🌱 **Front-end Developer** in career transition <br>
 🎓 Currently I'm studying **Analysis and Systems Development** <br>
@@ -9,7 +10,7 @@
 
 <br />
 
-### Technologies I use ⭐
+### Technologies I use 🚀
 
 <div> 
   <img src="./tecnologias/html.png" width="25" title="HTML5"/> &nbsp;
