@@ -9,7 +9,7 @@
 
 <br />
 
-###  Technologies I use 🚀
+### Technologies I use ⭐
 
 <div> 
   <img src="./tecnologias/html.png" width="25" title="HTML5"/> &nbsp;
@@ -21,7 +21,7 @@
 
 <br />
 
-###  Technologies I'm learning
+### Technologies I'm learning
 
 <div>
   <img src="./tecnologias/react.png" width="25" title="React"/> &nbsp;
