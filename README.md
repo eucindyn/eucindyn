@@ -5,8 +5,7 @@
 
 🌱 **Front-end Developer** in career transition <br>
 🎓 Currently I'm studying **Analysis and Systems Development** <br>
-📍 I can speak Portuguese fluently and intermediate English 
-
+📍 I can speak *Portuguese fluently* and *intermediate English*
 
 <br />
 
@@ -21,7 +20,6 @@
 </div>
 
 <br />
-<br />
 
 ###  Technologies I'm learning
 
@@ -32,7 +30,6 @@
   <img src="./tecnologias/tailwindcss.png" width="25" title="Tailwind CSS"/> &nbsp;
 </div>
 
-<br />
 <br />
 
 ### Connect with me on LinkedIn!
