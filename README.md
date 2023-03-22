@@ -3,7 +3,8 @@
 <br />
 <br />
 
-🌱 <span>**Front-end Developer** in career transition</span>  <br>
+🌱 **Front-end Developer** in career transition <br>
+🎓 Currently I'm studying **Analysis and Systems Development** <br>
 📍 I can speak Portuguese fluently and intermediate English 
 
 
