@@ -37,7 +37,7 @@
 
 <!-- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eucindyn/) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Cindy%20Nascimento-cb6699?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eucindyn/)](https://www.linkedin.com/in/eucindyn/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Cindy%20Nascimento-8E87FA?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eucindyn/)](https://www.linkedin.com/in/eucindyn/) 
 
 <!---->
   
