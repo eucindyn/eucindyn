@@ -1,14 +1,14 @@
-### Hello, there! <s>*The angel from my nightmare*</s> I'm Cindy!✨
+### Hello, there! <s>The angel from my nightmare</s> I'm Cindy!✨
 
-<br />
+<br>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
-🌱 **Front-end Developer** in career transition <br>
-🎓 Currently I'm studying **Analysis and Systems Development** <br>
-📍 I can speak *Portuguese fluently* and *intermediate English*
+🌱 ***Front-end Developer*** in career transition <br>
+🎓 Currently I'm studying ***Analysis and Systems Development*** <br>
+📍 I can speak ***Portuguese fluently*** and ***intermediate English***
 
-<br />
+<br>
 
 ### Technologies I use 🚀
 
@@ -20,7 +20,7 @@
   <img src="./tecnologias/git.png" width="25" title="Git"/> &nbsp;
 </div>
 
-<br />
+<br>
 
 ### Technologies I'm learning
 
@@ -31,7 +31,7 @@
   <img src="./tecnologias/tailwindcss.png" width="25" title="Tailwind CSS"/> &nbsp;
 </div>
 
-<br />
+<br>
 
 ### Connect with me on LinkedIn!
 
