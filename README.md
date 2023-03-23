@@ -22,7 +22,7 @@
 
 <br>
 
-### Technologies I'm learning
+### Technologies I'm learning⚡
 
 <div>
   <img src="./tecnologias/react.png" width="25" title="React"/> &nbsp;
