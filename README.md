@@ -35,7 +35,7 @@
 
 ### Connect with me on LinkedIn!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Cindy%20Nascimento-6D67D0?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eucindyn/)](https://www.linkedin.com/in/eucindyn/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Cindy%20Nascimento-6D67D0?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eucindyn/)](https://www.linkedin.com/in/devcindyn/) 
 
 <!---->
   
