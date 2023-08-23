@@ -25,11 +25,10 @@
 ### Technologies I'm learning⚡
 
 <div>
-  <img src="./tecnologias/react.png" width="25" title="React"/> &nbsp;
+  <img src="./tecnologias/react.png" width="25" title="ReactJS"/> &nbsp;
   <img src="./tecnologias/typescript.png" width="25" title="TypeScript"/> &nbsp;
-  <img src="./tecnologias/sass.png" width="25" title="Sass"/> &nbsp;
-  <img src="./tecnologias/tailwindcss.png" width="25" title="Tailwind CSS"/> &nbsp;
-  <img src="./tecnologias/python.png" width="26" title="Python"/> &nbsp;
+  <img src="./tecnologias/python.png" width="27" title="Python"/> &nbsp;
+  <img src="./tecnologias/sass.png" width="25" title="Sass"/> &nbsp;	
 </div>
 
 <br>
