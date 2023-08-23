@@ -29,6 +29,7 @@
   <img src="./tecnologias/typescript.png" width="25" title="TypeScript"/> &nbsp;
   <img src="./tecnologias/sass.png" width="25" title="Sass"/> &nbsp;
   <img src="./tecnologias/tailwindcss.png" width="25" title="Tailwind CSS"/> &nbsp;
+  <img src="./tecnologias/python.png" width="26" title="Python"/> &nbsp;
 </div>
 
 <br>
