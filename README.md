@@ -1,4 +1,4 @@
-### Hello, there! <s>The angel from my nightmare</s> I'm Cindy!✨
+### ✨Hello, there! I'm Cindy ツ
 
 <br>
 
